@@ -54,14 +54,14 @@
 ### Thesis
 - **Deep learning-based Alzheimer’s disease diagnostics using medical images**
   - Tools/Technologies: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-
+- Demo: [![Demo](https://tuberanker.com/storage/images/data/can-i-use-someone-elses-video-on-my-youtube-channel.png)](https://drive.google.com/file/d/1EKDIsHLkLoA0w_0jGkaA0g-2UfU4z-q5/view?usp=drive_link)
 ### Projects
 1. **Social Implications of NLP-Driven Healthcare Technologies: Empowering Patients through Medicine**
    - Tools/Technologies: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 2. **Emotionally Augmented Bigram Language Models for Tailored Text Generation**
    - Tools/Technologies: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 3. **Developing machine learning and deep learning model for Blood Brain Barrier (BBB) permeability prediction**
-   - Tools/Technologies: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![ML](https://img.shields.io/badge/ML-FF6F00?logo=AI&logoColor=white&style=for-the-badge) ![Random Forest](https://img.shields.io/badge/Random%20Forest-8B0000?logo=forest&logoColor=white&style=for-the-badge) ![SVM](https://img.shields.io/badge/SVM-1E90FF?logo=SVM&logoColor=white&style=for-the-badge)
+   - Tools/Technologies: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![ML](https://img.shields.io/badge/ML-FF6F00?logo=AI&logoColor=white&style=for-the-badge) ![Random Forest](https://img.shields.io/badge/Random%20Forest-8B0000?logo=forest&logoColor=white&style=for-the-badge) 
    - Deployed Model: [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bbbpredict.streamlit.app/)
 4. **Classification of Liver Patients using Machine Learning and Deep Learning**
    - Tools/Technologies: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![ML](https://img.shields.io/badge/ML-FF6F00?logo=AI&logoColor=white&style=for-the-badge) ![DL](https://img.shields.io/badge/DL-FF6F00?logo=AI&logoColor=white&style=for-the-badge)
