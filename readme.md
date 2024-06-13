@@ -46,7 +46,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+![Open In Colab](https://img.shields.io/badge/Open%20in-Colab-blue?logo=google-colab)
 ---
 
 ## Thesis/Projects
