@@ -54,7 +54,7 @@
 ### Thesis
 - **Deep learning-based Alzheimer’s disease diagnostics using medical images**
   - Tools/Technologies: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-- Demo: [![Demo](https://drive.google.com/file/d/1EKDIsHLkLoA0w_0jGkaA0g-2UfU4z-q5/view?usp=drive_link)](https://drive.google.com/file/d/1EKDIsHLkLoA0w_0jGkaA0g-2UfU4z-q5/view?usp=drive_link)
+- Demo: [![Demo](https://img.shields.io/badge/Play-Video-green)](https://drive.google.com/file/d/1EKDIsHLkLoA0w_0jGkaA0g-2UfU4z-q5/view?usp=drive_link)
 ### Projects
 1. **Social Implications of NLP-Driven Healthcare Technologies: Empowering Patients through Medicine**
    - Tools/Technologies: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
