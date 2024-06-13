@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-mail.serajansari@gmail.com-blue)](mailto:mail.serajansari@gmail.com)
 
 **[Indraprastha Institute of Information Technology, Delhi (IIIT D)](https://iiitd.ac.in/)**  
-*M.Tech Computational Biology*
+*[M.Tech Computational Biology](https://cb.iiitd.ac.in/)*
 
 ---
 
