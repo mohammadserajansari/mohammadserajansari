@@ -7,7 +7,7 @@
 
 ---
 
-## Course Work
+## Working Area
 - Natural Language Processing (NLP)
 - Machine Learning in Biomedical Application
 - Big Data Mining in Healthcare
