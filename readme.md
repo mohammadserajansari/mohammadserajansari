@@ -235,11 +235,10 @@ ML/DL model for predicting BBB permeability — deployed as a live web app.
 </div>
 
 ---
-
 ## 🎓 Education & Achievement
 
-| Degree | Institution | 
-|---|---|---|
+| Degree | Institution |
+|---|---|
 | 🎓 M.Tech Computational Biology | IIIT Delhi |
 | 🔬 B.Tech Biotechnology | Hindustan College of Science & Technology |
 
