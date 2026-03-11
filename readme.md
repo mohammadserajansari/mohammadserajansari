@@ -238,10 +238,10 @@ ML/DL model for predicting BBB permeability — deployed as a live web app.
 
 ## 🎓 Education & Achievement
 
-| Degree | Institution | Score |
+| Degree | Institution | 
 |---|---|---|
-| 🎓 M.Tech Computational Biology | IIIT Delhi | CGPA: 7.96/10 |
-| 🔬 B.Tech Biotechnology | Hindustan College of Science & Technology | CGPA: 7.8/10 |
+| 🎓 M.Tech Computational Biology | IIIT Delhi |
+| 🔬 B.Tech Biotechnology | Hindustan College of Science & Technology |
 
 🏆 **DBT GAT-B (2022)** — All India Rank **133**
 
