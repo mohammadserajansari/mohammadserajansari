@@ -1,42 +1,43 @@
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      HERO BANNER                                  -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--
+████████████████████████████████████████████████████████████
+  MOHAMMAD SERAJ — GitHub Profile README
+  Design: Dark precision × Apple minimalism × AI Scientist
+████████████████████████████████████████████████████████████
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammad%20Seraj&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20NLP%20%7C%20GenAI%20%7C%20Biomedical%20AI%20%7C%20MLOps&descSize=19&descAlignY=58&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=4&section=header" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=🚀+Building+production-grade+AI+for+healthcare+%26+clinical+trials;🧠+LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Biomedical+NLP;☁️+AWS+%7C+Docker+%7C+FastAPI+%7C+HIPAA-compliant+MLOps;🧬+Where+AI+meets+Biology+to+accelerate+drug+discovery" alt="Typing SVG" />
-</a>
+<br/>
 
-<br/><br/>
+<!-- ── HERO ────────────────────────────────────── -->
 
-<!-- Badge Row -->
-<a href="mailto:mail.serajansari@gmail.com">
-  <img src="https://img.shields.io/badge/📧_mail.serajansari@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ansariserajmd/">
-  <img src="https://img.shields.io/badge/LinkedIn-ansariserajmd-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://mohammadserajansari.github.io/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-FF5722?style=flat-square" />
-</a>
-<a href="https://github.com/mohammadserajansari">
-  <img src="https://img.shields.io/badge/GitHub-mohammadserajansari-171515?style=flat-square&logo=github&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=13&duration=1&pause=99999&color=555555&center=true&vCenter=true&width=600&lines=INDRAPRASTHA+INSTITUTE+OF+INFORMATION+TECHNOLOGY+DELHI" alt="" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=58&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&lines=Mohammad+Seraj" alt="Mohammad Seraj" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=18&duration=1&pause=99999&color=888888&center=true&vCenter=true&width=700&lines=AI+Engineer+·+NLP+·+Generative+AI+·+Biomedical+Systems" alt="Role" />
 
 <br/><br/>
 
-<!-- Live Metrics -->
-<img src="https://komarev.com/ghpvc/?username=mohammadserajansari&label=Profile+Views&color=58A6FF&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Experience-1.5%2B_Years_Industry-22C55E?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-F59E0B?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Speciality-Healthcare_AI-A855F7?style=flat-square" />
+<!-- ── LIVE TYPING LINE ────────────────────────── -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Building+HIPAA-compliant+AI+for+clinical+trials+↗;Designing+RAG+systems+for+medical+code+retrieval+↗;Fine-tuning+BioBERT+with+QLoRA+for+biomedical+NLP+↗;3D+MRI+analysis+·+Alzheimer's+diagnostics+↗;Drug+discovery+with+GNN+·+R²+%3D+0.959+↗" alt="Typing" />
+
+<br/><br/>
+
+<!-- ── CONNECT ROW ─────────────────────────────── -->
+
+[![](https://img.shields.io/badge/LINKEDIN-ansariserajmd-4FC3F7?style=flat-square&labelColor=000000&logo=linkedin&logoColor=4FC3F7)](https://www.linkedin.com/in/ansariserajmd/)&nbsp;&nbsp;[![](https://img.shields.io/badge/PORTFOLIO-mohammadserajansari.github.io-4FC3F7?style=flat-square&labelColor=000000&logo=safari&logoColor=4FC3F7)](https://mohammadserajansari.github.io/)&nbsp;&nbsp;[![](https://img.shields.io/badge/EMAIL-mail.serajansari@gmail.com-4FC3F7?style=flat-square&labelColor=000000&logo=gmail&logoColor=4FC3F7)](mailto:mail.serajansari@gmail.com)
+
+<br/>
+
+[![](https://img.shields.io/badge/1.5%2B_years_industry-000000?style=flat-square&labelColor=111111&color=111111)](.)&nbsp;[![](https://img.shields.io/badge/AIR_133_·_DBT_GAT--B_2022-111111?style=flat-square&labelColor=111111&color=111111)](.)&nbsp;[![](https://img.shields.io/badge/M.Tech_IIIT_Delhi_·_CGPA_7.96-111111?style=flat-square&labelColor=111111&color=111111)](.)&nbsp;![](https://komarev.com/ghpvc/?username=mohammadserajansari&label=profile+views&color=111111&style=flat-square)
 
 </div>
 
@@ -44,439 +45,371 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> About Me
+<br/>
+
+<!-- ══════════════════════════════════════════════
+     § 01  IDENTITY
+══════════════════════════════════════════════ -->
+
+<div align="center"><sub>§ 01</sub>&nbsp;&nbsp;<b>IDENTITY</b></div>
+
+<br/>
 
 ```python
-#!/usr/bin/env python3
-# ─────────────────────────────────────────────────────────────────────
-#   Mohammad Seraj  ·  AI / ML Engineer  ·  Varanasi, India 🇮🇳
-# ─────────────────────────────────────────────────────────────────────
+# Mohammad Seraj — AI / ML Engineer
+# Varanasi, India  ·  Open to Opportunities
 
-class MohammadSeraj:
-    """
-    AI/ML Engineer specializing in NLP, Generative AI & Biomedical AI.
-    Building systems where cutting-edge research meets real-world impact.
-    """
-
-    ROLE        = "AI / ML Engineer"
-    EXPERIENCE  = "1.5+ years  |  Research + Production"
-    EDUCATION   = "M.Tech Computational Biology · IIIT Delhi  (CGPA: 7.96)"
-    LOCATION    = "Varanasi, Uttar Pradesh, India 🇮🇳"
-    ACHIEVEMENT = "DBT GAT-B 2022 · All India Rank 133 🏆"
-
-    expertise = {
-        "GenAI & LLMs"     : ["RAG", "LangChain", "Agentic AI", "Prompt Engineering"],
-        "Biomedical AI"    : ["Clinical NLP", "Drug Discovery", "Medical Imaging"],
-        "MLOps"            : ["FastAPI", "Docker", "AWS", "CI/CD", "HIPAA Compliance"],
-        "Deep Learning"    : ["PyTorch", "TensorFlow", "HuggingFace", "BioBERT", "QLoRA"],
-    }
-
-    currently_exploring = [
-        "Multimodal LLMs for medical imaging",
-        "LLM inference optimization (4-bit quantization)",
-        "Clinical Agentic AI pipelines",
-    ]
-
-    def mission(self) -> str:
-        return (
-            "Bridge the gap between AI research and clinical impact — "
-            "one production-ready system at a time. 🚀"
-        )
+engineer = {
+    "focus"    : ["Generative AI", "Clinical NLP", "Biomedical ML", "MLOps"],
+    "stack"    : ["Python", "PyTorch", "LangChain", "FastAPI", "AWS", "Docker"],
+    "domain"   : "Healthcare · Drug Discovery · Medical Imaging",
+    "thesis"   : "Deep Learning-based Alzheimer's Diagnostics (3D MRI)",
+    "peak"     : "GNN LogP prediction  →  R² = 0.959  (state-of-the-art)",
+    "deployed" : ["HIPAA-compliant RAG on AWS", "BBB Predictor on Streamlit"],
+    "now"      : "Building production AI that accelerates clinical research ↗",
+}
 ```
-
-<br/>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Professional Experience
-
-<table>
-<tr>
-<td>
-
-### 🏥 AI Developer &nbsp;·&nbsp; Anervea Data Labs Pvt. Ltd. &nbsp;·&nbsp; `Apr 2025 – Oct 2025`
-
-> **Clinical Trial Patient Recruitment Platform** — processing real-world EHR & claims data at enterprise scale.
-
-<details open>
-<summary><b>📌 Key Contributions</b></summary>
-<br/>
-
-| # | What I Built | Stack |
-|---|---|---|
-| 🤖 | Automated **protocol ingestion NLP pipeline** — extracted trial criteria from unstructured documents | AWS Textract + Bedrock (Claude Sonnet) |
-| 🔍 | **RAG architecture** for medical code retrieval (ICD-10, CPT, LOINC) with demographic eligibility filtering | PGVector + LangChain |
-| 🧬 | **Fine-tuned BioBERT** for clinical-trial NLP classification using PEFT (QLoRA) + 4-bit quantization | HuggingFace · bitsandbytes · CUDA |
-| ☁️ | **HIPAA-compliant patient matching** with near real-time trial feasibility analysis | AWS EC2, S3, Snowflake |
-| 🐳 | **Containerized GenAI microservices** deployed to cloud environments | Docker · FastAPI · Jenkins CI/CD |
-| 🔗 | **Komodo Workspace integration** delivering enriched patient cohorts with provider + demographic insights | Python · REST APIs |
-
-</details>
-
-<details>
-<summary><b>💡 Impact & Results</b></summary>
-<br/>
-
-- ✅ Reduced patient enrolment timelines by automating manual protocol review
-- ✅ Enabled near real-time trial feasibility analysis from claims data
-- ✅ Accelerated time-to-market for novel therapies via AI-driven recruitment
-- ✅ HIPAA-compliant architecture deployed on AWS production
-
-</details>
-
-**`Python`** **`LangChain`** **`FastAPI`** **`AWS`** **`PGVector`** **`Docker`** **`BioBERT`** **`QLoRA`** **`Snowflake`** **`Jenkins`**
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>
-
-### 🧪 Research Assistant &nbsp;·&nbsp; NeuroCare-eLab &nbsp;·&nbsp; `Jun 2024 – Apr 2025`
-
-> **Computational Drug Discovery** — ML-driven LogP prediction & solubility estimation using classical + quantum molecular descriptors.
-
-<details open>
-<summary><b>📌 Model Benchmarks (5-Fold Cross-Validation)</b></summary>
-<br/>
-
-| Model | Descriptor Set | R² | MAE | MSE |
-|---|---|:---:|:---:|:---:|
-| **GNN** 🥇 | Classical + QM + QMPSA + ΔG | **0.959** | **0.115** | **0.222** |
-| XGBoost Regressor | Classical + Quantum | 0.932 | — | — |
-| ExtraTrees (enhanced) | Classical + QMPSA + ΔG | 0.849 | — | — |
-| Random Forest | Classical only | baseline | — | — |
-
-> GNN with quantum descriptors **outperformed all traditional ML methods** — state-of-the-art LogP performance.
-
-</details>
-
-<details>
-<summary><b>🔬 Research Methodology</b></summary>
-<br/>
-
-- Combined **classical molecular descriptors** with **quantum mechanical features** (QM, QMPSA, ΔG)
-- Designed end-to-end **computational pipelines** with precise documentation
-- Delivered actionable insights directly accelerating drug discovery workflows
-
-</details>
-
-**`Python`** **`PyTorch`** **`scikit-learn`** **`GNNs`** **`HuggingFace Transformers`** **`Feature Engineering`**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Featured Projects
-
-<!-- Project 1 -->
-<details open>
-<summary>
-  <b>🎙️ Autonomous Voice-Enabled Dealership Agent</b> &nbsp;
-  <img src="https://img.shields.io/badge/Agentic_AI-EF4444?style=flat-square" />
-  <img src="https://img.shields.io/badge/Multi--Agent-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Voice_AI-0EA5E9?style=flat-square" />
-</summary>
-<br/>
-
-> Enterprise multi-agent AI platform for automotive customer service automation with real-time voice interaction.
-
-- 🤝 **Multi-agent orchestration** via CrewAI + Llama 3.3 — specialized agents for scheduling, Q&A, and escalation
-- 🎤 **Low-latency voice pipeline** — Deepgram Nova-2 (STT) + Aura (TTS) for natural real-time conversations
-- 🛡️ **Custom tool-level guardrails** + strict prompt engineering — zero hallucinations in booking logic
-- ⚡ **Async FastAPI** backend managing concurrent audio streams + session-based chat history + KB retrieval
-
-```
-User speaks ──► Deepgram STT ──► CrewAI Agent Router ──► Llama 3.3 ──► Tool Call / Response ──► Deepgram TTS ──► Audio
-```
-
-**Stack:** `Python` `CrewAI` `LangChain` `Llama 3.3` `Deepgram API` `FastAPI` `Docker`
-
-</details>
-
----
-
-<!-- Project 2 -->
-<details open>
-<summary>
-  <b>🧠 GenAI Document Intelligence Platform</b> &nbsp;
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Production--Ready-22C55E?style=flat-square" />
-</summary>
-<br/>
-
-> End-to-end GenAI pipeline for intelligent document understanding, semantic search, and knowledge retrieval at scale.
-
-- 📄 **LLM + RAG pipeline** — chunk, embed, retrieve, generate for accurate document Q&A
-- 🗄️ **Vector database integration** — semantic similarity search across large document corpora
-- 🎯 **Prompt optimization** for accuracy and hallucination reduction
-- 🐳 **Containerized FastAPI** services for scalable, production-ready inference
-
-**Stack:** `Python` `LangChain` `HuggingFace` `FastAPI` `Docker` `Vector DB`
-
-</details>
-
----
-
-<!-- Project 3 -->
-<details open>
-<summary>
-  <b>🧬 Deep Learning-Based Alzheimer's Diagnostics</b> &nbsp;
-  <img src="https://img.shields.io/badge/M.Tech_Thesis-F59E0B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Medical_Imaging-EC4899?style=flat-square" />
-  &nbsp;<a href="https://drive.google.com/file/d/1EKDIsHLkLoA0w_0jGkaA0g-2UfU4z-q5/view?usp=drive_link"><img src="https://img.shields.io/badge/▶_Watch_Demo-16A34A?style=flat-square" /></a>
-</summary>
-<br/>
-
-> Supervisor: **Dr. N Arul Murugan** · 3D volumetric MRI analysis with 64% improvement in diagnostic accuracy.
-
-| MRI View | Model | Accuracy |
-|---|---|:---:|
-| Coronal | YOLOv8n | **80.5%** 🥇 |
-| Sagittal | YOLOv8n | 78.1% |
-| Axial | YOLOv8n | 71.0% |
-| All Sections | Unified Model | 75.0% |
-
-- 🧠 **3D model** using `.nii` format — analyzes entire MRI volumes for volumetric features
-- 📐 **Unified 2D models** from axial, coronal, and sagittal sections in parallel
-- 📈 **YOLOv8n significantly outperformed VGG16** across all MRI orientations
-
-**Stack:** `Python` `TensorFlow` `PyTorch` `OpenCV` `Matplotlib` `NumPy`
-
-</details>
-
----
-
-<!-- Project 4 -->
-<details>
-<summary>
-  <b>💊 Blood-Brain Barrier Permeability Predictor</b> &nbsp;
-  <img src="https://img.shields.io/badge/Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  &nbsp;<a href="https://bbbpredict.streamlit.app/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" /></a>
-</summary>
-<br/>
-
-> ML/DL model predicting Blood-Brain Barrier permeability from molecular descriptors — deployed as a live interactive app.
-
-- 🔬 Feature engineering on **molecular descriptors** for drug-likeness prediction
-- 📊 Benchmarked **Random Forest, XGBoost, and deep learning** models
-- 🚀 **Live deployed** on Streamlit Cloud — accessible to researchers worldwide
-
-**Stack:** `Python` `scikit-learn` `Random Forest` `XGBoost` `Streamlit`
-
-</details>
-
-<br/>
-
----
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28"> Technical Skills
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**💻 Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br/>
-
-**🤖 AI & Machine Learning**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-C2410C?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-0369A1?style=for-the-badge)
-![Error Analysis](https://img.shields.io/badge/Error_Analysis-7C3AED?style=for-the-badge)
-![Cross-Validation](https://img.shields.io/badge/Cross--Validation-059669?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-D97706?style=for-the-badge)
-
-<br/>
-
-**🧠 LLMs & Agentic AI**
-
-![LLMs](https://img.shields.io/badge/LLMs-1C3C3C?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-EF4444?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain_Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge)
-![Prompt Iteration](https://img.shields.io/badge/Prompt_Iteration-0284C7?style=for-the-badge)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-16A34A?style=for-the-badge)
-![PGVector](https://img.shields.io/badge/PGVector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-8B5CF6?style=for-the-badge)
-
-</td>
-<td valign="top" width="50%">
-
-**📚 Frameworks & Libraries**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow_Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3B4D2E?style=for-the-badge)
-
-<br/>
-
-**📊 Data Visualization**
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-<br/>
-
-**☁️ MLOps & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Production Pipelines](https://img.shields.io/badge/Production_Pipelines-1D4ED8?style=for-the-badge)
-![Monitoring](https://img.shields.io/badge/Monitoring_%26_Logging-7C3AED?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2563EB?style=for-the-badge&logo=githubactions&logoColor=white)
-
-<br/>
-
-**🔧 Developer Tools**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## 🎯 Expertise at a Glance
-
-```
-  NLP & Text AI          ████████████████████  95%
-  Generative AI / LLMs   ███████████████████░  90%
-  RAG Systems            ███████████████████░  90%
-  Biomedical AI          ██████████████████░░  85%
-  MLOps & Deployment     ████████████████░░░░  80%
-  Medical Image Analysis ███████████████░░░░░  75%
-  Data Science & EDA     ████████████████████  95%
-  Cloud (AWS)            ███████████████░░░░░  75%
-```
-
-<br/>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=mohammadserajansari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadserajansari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" />
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadserajansari&theme=github_dark" width="98%" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammadserajansari&theme=github_dark" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammadserajansari&theme=github_dark" />
-</div>
-
-<br/>
-
----
-
-## 🎓 Education & Achievements
-
-<table>
-<tr>
-<td width="60" align="center">🎓</td>
-<td>
-<b>M.Tech — Computational Biology</b><br/>
-Indraprastha Institute of Information Technology, Delhi (IIIT-D) &nbsp;·&nbsp; <code>2022 – 2024</code><br/>
-<b>CGPA: 7.96 / 10</b>
-</td>
-</tr>
-<tr>
-<td width="60" align="center">🔬</td>
-<td>
-<b>B.Tech — Biotechnology</b><br/>
-Hindustan College of Science & Technology, Mathura &nbsp;·&nbsp; <code>2018 – 2022</code><br/>
-<b>CGPA: 7.8 / 10</b>
-</td>
-</tr>
-<tr>
-<td width="60" align="center">🏆</td>
-<td>
-<b>DBT GAT-B 2022 — All India Rank 133</b><br/>
-Graduate Aptitude Test in Biotechnology — top national competitive exam
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## 🔭 Currently Exploring
-
-<div align="center">
-
-| Area | Focus |
-|:---:|:---|
-| 🤖 **Agentic AI** | Multi-agent frameworks for clinical decision support |
-| 🧬 **Multimodal AI** | Vision-Language models for biomedical imaging |
-| ⚡ **LLM Optimization** | 4-bit quantization, QLoRA, efficient inference for production |
-| 🏥 **Clinical NLP** | Fine-tuning biomedical LLMs on EHR & trial data |
-
-</div>
-
-<br/>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ansariserajmd/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:mail.serajansari@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send_a_message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://mohammadserajansari.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-View_my_work-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
 
 <br/><br/>
 
-> 💼 **Open to:** AI/ML Engineer · NLP Engineer · GenAI Engineer · Research Scientist
->
-> 🏥 **Passionate about:** Healthcare AI · Clinical NLP · Drug Discovery · Biomedical ML
+---
+
+<br/>
+
+<!-- ══════════════════════════════════════════════
+     § 02  EXPERIENCE
+══════════════════════════════════════════════ -->
+
+<div align="center"><sub>§ 02</sub>&nbsp;&nbsp;<b>EXPERIENCE</b></div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="3" bgcolor="#4FC3F7"></td>
+<td width="16">&nbsp;</td>
+<td>
+
+**`Apr 2025 – Oct 2025`** &nbsp;·&nbsp; **AI Developer** &nbsp;·&nbsp; **Anervea Data Labs Pvt. Ltd.**
+
+*Clinical Trial Patient Recruitment Platform — EHR & claims data at enterprise scale*
+
+<br/>
+
+<table>
+<tr><th align="left">System</th><th align="left">What Was Built</th><th align="left">Stack</th></tr>
+<tr><td>🔬 Protocol NLP</td><td>Automated ingestion of inclusion/exclusion criteria from unstructured trial documents</td><td><code>AWS Textract</code> <code>Bedrock · Claude Sonnet</code></td></tr>
+<tr><td>🗄️ RAG Engine</td><td>Medical code retrieval (ICD-10, CPT, LOINC) with demographic & gender eligibility filtering</td><td><code>PGVector</code> <code>LangChain</code></td></tr>
+<tr><td>🧬 BioBERT Fine-tune</td><td>Clinical-trial NLP classification via PEFT (QLoRA) + 4-bit quantization, HINT-inspired dataset</td><td><code>HuggingFace</code> <code>bitsandbytes</code> <code>CUDA</code></td></tr>
+<tr><td>☁️ HIPAA Services</td><td>Secure patient matching & near real-time trial feasibility on AWS production</td><td><code>EC2</code> <code>S3</code> <code>Snowflake</code></td></tr>
+<tr><td>🐳 Infra</td><td>Containerized GenAI microservices + CI/CD pipeline for reproducible cloud deployment</td><td><code>Docker</code> <code>FastAPI</code> <code>Jenkins</code></td></tr>
+</table>
+
+<br/>
+
+> **Outcome** — Reduced patient enrolment timelines · Accelerated time-to-market for novel therapies · Production HIPAA-compliant AI
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="3" bgcolor="#26A69A"></td>
+<td width="16">&nbsp;</td>
+<td>
+
+**`Jun 2024 – Apr 2025`** &nbsp;·&nbsp; **Research Assistant** &nbsp;·&nbsp; **NeuroCare-eLab**
+
+*Computational Drug Discovery — LogP prediction & solubility estimation*
+
+<br/>
+
+<table>
+<tr><th align="left">Model</th><th align="left">Descriptor Set</th><th align="center">R²</th><th align="center">MAE</th><th align="center">MSE</th></tr>
+<tr><td><b>GNN</b> ★</td><td>Classical + QM + QMPSA + ΔG</td><td align="center"><b>0.959</b></td><td align="center"><b>0.115</b></td><td align="center"><b>0.222</b></td></tr>
+<tr><td>XGBoost</td><td>Classical + Quantum</td><td align="center">0.932</td><td align="center">—</td><td align="center">—</td></tr>
+<tr><td>ExtraTrees + QMPSA</td><td>Classical + ΔG</td><td align="center">0.849</td><td align="center">—</td><td align="center">—</td></tr>
+</table>
+
+<br/>
+
+> **Methodology** — 5-fold cross-validation · GNN outperformed all classical ML · End-to-end computational pipelines with quantum descriptors
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<!-- ══════════════════════════════════════════════
+     § 03  PROJECTS
+══════════════════════════════════════════════ -->
+
+<div align="center"><sub>§ 03</sub>&nbsp;&nbsp;<b>SELECTED WORK</b></div>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**`01`** &nbsp; 🎙️ **Autonomous Voice Dealership Agent**
+
+`Agentic AI` `Multi-Agent` `Real-time Voice`
+
+Enterprise multi-agent platform for automotive customer automation. CrewAI + Llama 3.3 orchestration with specialized agents. Deepgram Nova-2 STT → Aura TTS low-latency pipeline. Custom guardrails eliminating LLM hallucinations in booking logic.
+
+```
+Speech → STT → Agent Router
+      → Llama 3.3 → Tool Use
+      → TTS → Response
+```
+
+`CrewAI` `LangChain` `Llama 3.3` `Deepgram` `FastAPI` `Docker`
+
+</td>
+<td valign="top" width="50%">
+
+**`02`** &nbsp; 🧠 **GenAI Document Intelligence**
+
+`RAG` `Semantic Search` `Production`
+
+End-to-end GenAI pipeline for document understanding at scale. LLM + RAG architecture with vector database semantic retrieval. Prompt optimization for accuracy and hallucination reduction. Containerized FastAPI services for scalable inference.
+
+```
+Docs → Chunk → Embed → VectorDB
+     → Retrieve → Generate → Answer
+```
+
+`LangChain` `HuggingFace` `FastAPI` `Docker` `Vector DB`
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td valign="top" width="50%">
+
+**`03`** &nbsp; 🧬 **Alzheimer's Diagnostics — M.Tech Thesis** &nbsp; [![](https://img.shields.io/badge/▶_demo-16A34A?style=flat-square)](https://drive.google.com/file/d/1EKDIsHLkLoA0w_0jGkaA0g-2UfU4z-q5/view?usp=drive_link)
+
+`3D MRI` `YOLOv8` `Medical Imaging`
+
+3D volumetric analysis of `.nii` MRI files · 64% diagnostic accuracy improvement. YOLOv8n vs VGG16 benchmark across all sections.
+
+| View | Accuracy |
+|---|:---:|
+| Coronal | **80.5%** |
+| Sagittal | 78.1% |
+| Axial | 71.0% |
+
+`TensorFlow` `PyTorch` `OpenCV` `NumPy`
+
+</td>
+<td valign="top" width="50%">
+
+**`04`** &nbsp; 💊 **BBB Permeability Predictor** &nbsp; [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bbbpredict.streamlit.app/)
+
+`Drug Discovery` `Live App` `ML`
+
+Blood-Brain Barrier permeability prediction from molecular descriptors. Benchmarked Random Forest, XGBoost, deep learning models. **Live deployed** — accessible to researchers worldwide.
+
+<br/>
+
+> Predicts drug CNS-penetration capability — critical in early-stage pharmaceutical research.
+
+`scikit-learn` `XGBoost` `Streamlit` `Python`
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<!-- ══════════════════════════════════════════════
+     § 04  SKILLS
+══════════════════════════════════════════════ -->
+
+<div align="center"><sub>§ 04</sub>&nbsp;&nbsp;<b>TECHNICAL SKILLS</b></div>
+
+<br/>
+
+<div align="center">
+
+**LANGUAGES**
+
+![Python](https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=3776AB)&nbsp;![SQL](https://img.shields.io/badge/SQL-ffffff?style=flat-square&logo=postgresql&logoColor=336791)
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Thanks+for+visiting!+⭐+Star+my+repos+if+you+find+them+useful&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
+<table width="100%" align="center">
+<tr>
+<td valign="top" align="center" width="25%">
+
+**AI & MACHINE LEARNING**
+
+![](https://img.shields.io/badge/Machine_Learning-0a0a0a?style=flat-square&color=111)
+![](https://img.shields.io/badge/Deep_Learning-0a0a0a?style=flat-square&color=111)
+![](https://img.shields.io/badge/Model_Evaluation-0a0a0a?style=flat-square&color=111)
+![](https://img.shields.io/badge/Error_Analysis-0a0a0a?style=flat-square&color=111)
+![](https://img.shields.io/badge/Cross--Validation-0a0a0a?style=flat-square&color=111)
+![](https://img.shields.io/badge/Feature_Engineering-0a0a0a?style=flat-square&color=111)
+
+</td>
+<td valign="top" align="center" width="25%">
+
+**LLMs & AGENTIC AI**
+
+![](https://img.shields.io/badge/LLMs-4FC3F7?style=flat-square&color=0a1929&labelColor=0a1929)
+![](https://img.shields.io/badge/Agentic_AI-4FC3F7?style=flat-square&color=0a1929&labelColor=0a1929)
+![](https://img.shields.io/badge/LangChain_Agents-4FC3F7?style=flat-square&color=0a1929&labelColor=0a1929)
+![](https://img.shields.io/badge/RAG-4FC3F7?style=flat-square&color=0a1929&labelColor=0a1929)
+![](https://img.shields.io/badge/Prompt_Engineering-4FC3F7?style=flat-square&color=0a1929&labelColor=0a1929)
+![](https://img.shields.io/badge/Tool_Calling-4FC3F7?style=flat-square&color=0a1929&labelColor=0a1929)
+![](https://img.shields.io/badge/PGVector-4FC3F7?style=flat-square&color=0a1929&labelColor=0a1929)
+![](https://img.shields.io/badge/Qdrant-4FC3F7?style=flat-square&color=0a1929&labelColor=0a1929)
+![](https://img.shields.io/badge/Embeddings-4FC3F7?style=flat-square&color=0a1929&labelColor=0a1929)
+
+</td>
+<td valign="top" align="center" width="25%">
+
+**FRAMEWORKS**
+
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&color=1a0a0a)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&color=1a0800)
+![](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&color=1a1500)
+![](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&color=1a0d00)
+![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/NLTK-3B4D2E?style=flat-square)
+![](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&color=1a0505)
+
+</td>
+<td valign="top" align="center" width="25%">
+
+**MLOps & CLOUD**
+
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&color=001a17)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&color=001020)
+![](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white&color=1a0d00)
+![](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white&color=061200)
+![](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white&color=001520)
+![](https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square&logo=githubactions&logoColor=white&color=00082a)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&color=000f1a)
+![](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white&color=1a1100)
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<!-- ══════════════════════════════════════════════
+     § 05  METRICS
+══════════════════════════════════════════════ -->
+
+<div align="center"><sub>§ 05</sub>&nbsp;&nbsp;<b>GITHUB ANALYTICS</b></div>
+
+<br/>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mohammadserajansari&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=4FC3F7&icon_color=4FC3F7&text_color=888888&ring_color=4FC3F7&count_private=true&include_all_commits=true&cache_seconds=1800" />&nbsp;<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadserajansari&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=4FC3F7&text_color=888888&langs_count=6&cache_seconds=1800" />
+
+</div>
+
+<div align="center">
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadserajansari&theme=github_dark" />
+</div>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<!-- ══════════════════════════════════════════════
+     § 06  EDUCATION
+══════════════════════════════════════════════ -->
+
+<div align="center"><sub>§ 06</sub>&nbsp;&nbsp;<b>EDUCATION</b></div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="3" bgcolor="#4FC3F7"></td>
+<td width="16">&nbsp;</td>
+<td>
+<b>M.Tech — Computational Biology</b><br/>
+Indraprastha Institute of Information Technology, Delhi (IIIT-D) &nbsp;·&nbsp; <code>2022–2024</code> &nbsp;·&nbsp; CGPA <b>7.96 / 10</b><br/>
+<sub>Thesis: Deep Learning-based Alzheimer's Disease Diagnostics using Medical Images · Supervisor: Dr. N Arul Murugan</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="3" bgcolor="#333333"></td>
+<td width="16">&nbsp;</td>
+<td>
+<b>B.Tech — Biotechnology</b><br/>
+Hindustan College of Science & Technology, Mathura &nbsp;·&nbsp; <code>2018–2022</code> &nbsp;·&nbsp; CGPA <b>7.8 / 10</b>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+`🏆` &nbsp; **DBT GAT-B 2022** — Graduate Aptitude Test in Biotechnology &nbsp;·&nbsp; **All India Rank 133**
+
+</div>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<!-- ══════════════════════════════════════════════
+     FOOTER
+══════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=1&pause=99999&color=333333&center=true&vCenter=true&width=700&lines=Open+to+AI+%2F+ML+Engineer+·+NLP+Engineer+·+GenAI+Engineer+·+Research+Scientist+roles" alt="" />
+
+<br/>
+
+[![](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansariserajmd/)&nbsp;[![](https://img.shields.io/badge/VIEW_PORTFOLIO-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://mohammadserajansari.github.io/)&nbsp;[![](https://img.shields.io/badge/SEND_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.serajansari@gmail.com)
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=11&duration=1&pause=99999&color=222222&center=true&vCenter=true&width=400&lines=Mohammad+Seraj+·+Varanasi%2C+India+·+2025" alt="" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=3&section=footer" />
